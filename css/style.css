@@ -1,0 +1,18 @@
+.demo{
+  color: rgb(32, 143, 73);
+}
+
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: khaki;
+}
+marquee{
+  margin: 0%;
+  padding: 0%;
+  direction: initial;
+}
+nav{
+  flex: 1;
+  text-align: right;
+  align-content: center;
+}
